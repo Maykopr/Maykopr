@@ -43,7 +43,10 @@ Se quiser bater um papo é só chamar!
 
 ## - 📫 Estou ansioso pelo seu contato
 
-![Meu-LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/mayko-costa/)
-![Meu-E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&url:https://maykopr@hotmail.com)
 
 
+![Meu-E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+Me envie um e-mail: maykopr@hotmail.com
+
+![Meu-LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+Ou me contate no Linkedin: www.linkedin.com/in/mayko-costa/
