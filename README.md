@@ -5,8 +5,8 @@
 
 Loading...
 
-## - 👨‍💻 Tecnologias que eu utilizo
 ![Mayko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maykopr&show_icons=true&theme=vision-friendly-dark)
+## - 👨‍💻 Tecnologias que eu utilizo
 
 ![imagem GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![imagem Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=githublogoColor=white)
@@ -26,20 +26,20 @@ Loading...
 
 ## - 😄 Amo estudar
 
-Sou apaixonado pelo processo de aprendizado e auto-didata por natureza. Muita coisa me interessa: Desde a comédia Aristófanes à geometria Euclidiana, do código de Hamurabe à singularidade do Stephen Hawking... arte, história, teologia, filosofia, lógica, matemática, física, letras e por aí vai. Sou um curioso inveterado e sempre aprendendo alguma coisa.
+  Sou apaixonado pelo processo de aprendizado e auto-didata por natureza. Muita coisa me interessa: Desde a comédia Aristófanes à geometria Euclidiana, do código de Hamurabe à singularidade do buraco negro... arte, história, teologia, filosofia, lógica, matemática, física, letras e por aí vai. Sou um curioso inveterado e sempre aprendendo alguma coisa.
 Se quiser bater um papo é só chamar!
 
 ## - 🔭 Atualmente estou desenvolvendo robôs para mercado financeiro
 
-Apesar de haver crescido envolto em tecnologia, nunca havia me aventurado no maravilhoso mundo do desenvolvimento. Confesso que fiquei só na curiosidade mesmo. Dediquei muitos anos ao design gráfico e ao domínio de ferramentas relacionadas (CorelDraw, Photoshop,etc). A poucos anos descobri o gosto pela programação através do mercado financeiro. Por necessidade aprendi a codar em NTSL, uma linguagem derivada do Delphi. Aparti daí tive sorte de me aventurar, como auto-didata que sou, no mundo dos loops, arrays e algoritmos. Hoje divido o meu tempo entre as dezenas de robôs que tenho desenvolvido e o imenso mundo do frontEnd.
+  Apesar de haver crescido envolto em tecnologia, nunca havia me aventurado no maravilhoso mundo do desenvolvimento. Confesso que fiquei só na curiosidade mesmo. Dediquei muitos anos ao design gráfico e ao domínio de ferramentas relacionadas (CorelDraw, Photoshop,etc). A poucos anos descobri o gosto pela programação através do mercado financeiro. Por necessidade aprendi a codar em NTSL, uma linguagem derivada do Delphi. Aparti daí tive sorte de me aventurar, como auto-didata que sou, no mundo dos loops, arrays e algoritmos. Hoje divido o meu tempo entre as dezenas de robôs que tenho desenvolvido e o imenso mundo do frontEnd.
 
 ## - 👯 Estou disposto a colaborar com algum projeto seu
 
-Se voce tem algum projeto e precisa da minha ajuda, me envie uma mensagem. Talvez eu possa contribuir.
+  Se voce tem algum projeto e precisa da minha ajuda, me envie uma mensagem. Talvez eu possa contribuir.
 
 ## - 🤔 Aceito de muitíssimo bom grado ofertas de trabalho
 
-Estou em busca de desenvolver minhas experiências práticas, skills e network; e a melhor maneira de adquirir estas valiosas habilidades é no mercado de trabalho. Quero muito estar envolvido em processos empolgantes que possam servir como caminho para o aperfeiçoamento pessoal e profissional.
+  Estou em busca de desenvolver minhas experiências práticas, skills e network; e a melhor maneira de adquirir estas valiosas habilidades é no mercado de trabalho. Quero muito estar envolvido em processos empolgantes que possam servir como caminho para o aperfeiçoamento pessoal e profissional.
 
 ## - 📫 Estou ansioso pelo seu contato
 
