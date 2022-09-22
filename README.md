@@ -1,7 +1,7 @@
 
 # Olá! Eu sou o Mayko Costa 👋
 
-## - 😲 Projetos maravilhosos
+## - 😲 Primeiros projetos no github
 
 - https://github.com/Maykopr/projeto-listadetarefas
 - https://github.com/Maykopr/projeto-calculadora
