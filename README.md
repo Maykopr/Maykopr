@@ -16,19 +16,19 @@
 ![imagem CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![imagem JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![imagem Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![imagem Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![imagem Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## - 🌱 Tecnologias que estou aprendendo
 
 ![imagem PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![imagem Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![imagem React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![imagem React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![imagem Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![imagem Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## - 😄 Amo estudar
 
-  Sou apaixonado pelo processo de aprendizado e auto-didata por natureza. Muita coisa me interessa: Desde a comédia Aristófanes à geometria Euclidiana, do código de Hamurabe à singularidade do buraco negro... arte, história, teologia, filosofia, lógica, matemática, física, letras e por aí vai. Sou um curioso inveterado e sempre aprendendo alguma coisa.
+  Sou apaixonado pelo processo de aprendizado e auto-didata por natureza. Muita coisa me interessa: Desde a comédia de Aristófanes à geometria Euclidiana, arte, história, teologia, filosofia, lógica, matemática, letras e por aí vai. Sou um curioso inveterado e sempre aprendendo alguma coisa.
 Se quiser bater um papo é só chamar!
 
 ## - 🔭 Atualmente estou desenvolvendo robôs para mercado financeiro
