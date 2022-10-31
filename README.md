@@ -5,6 +5,8 @@
 
 - https://github.com/Maykopr/projeto-listadetarefas
 - https://github.com/Maykopr/projeto-calculadora
+- https://github.com/Maykopr/portfolio
+- https://github.com/Maykopr/site-viagem
 - Loading...
 
 ![Mayko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maykopr&show_icons=true&theme=vision-friendly-dark)
@@ -28,7 +30,7 @@
 
 ## - 😄 Amo estudar
 
-  Sou apaixonado pelo processo de aprendizado e auto-didata por natureza. Muita coisa me interessa: Desde a comédia de Aristófanes à geometria Euclidiana, arte, história, teologia, filosofia, lógica, matemática, letras e por aí vai. Sou um curioso inveterado e sempre aprendendo alguma coisa.
+  Sou apaixonado pelo processo de aprendizado e auto-didata por natureza. Muitas coisas me interessam: Desde a comédia de Aristófanes à geometria Euclidiana, história, teologia, filosofia, lógica, matemática e por aí vai. Sou um curioso inveterado e estou sempre aprendendo alguma coisa.
 Se quiser bater um papo é só chamar!
 
 ## - 🔭 Atualmente estou desenvolvendo robôs para mercado financeiro
