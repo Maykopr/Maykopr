@@ -7,6 +7,7 @@
 - https://github.com/Maykopr/projeto-calculadora
 - https://github.com/Maykopr/portfolio
 - https://github.com/Maykopr/site-viagem
+- https://github.com/Maykopr/Calculadora-IMC-React
 - Loading...
 
 ![Mayko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maykopr&show_icons=true&theme=vision-friendly-dark)
