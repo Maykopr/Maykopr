@@ -3,7 +3,7 @@
 
 ## - 😲 Primeiros projetos no github
 
-- https://github.com/Maykopr/portfolio
+- [https://github.com/Maykopr/portfolio](https://maykopr.github.io/portfolio/)
 - https://github.com/Maykopr/calculadora-React
 - https://github.com/Maykopr/Calculadora-IMC-React
 - https://github.com/Maykopr/projeto-listadetarefas
