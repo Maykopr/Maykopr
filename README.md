@@ -33,18 +33,17 @@
 
 ## - 😄 Amo estudar
 
-  Sou apaixonado pelo processo de aprendizado, e auto-didata por natureza. Muitas coisas me interessam: Desde a comédia de Aristófanes à geometria Euclidiana, história, teologia, filosofia, lógica, matemática e por aí vai. Sou um curioso inveterado e estou sempre aprendendo alguma coisa.
-Se quiser bater um papo é só chamar!
+  Sou apaixonado pelo processo de aprendizado e, por consequência, auto-didata. Me interesso por várias áreas do saber e acredito que são todas peças de um mesmo quebra-cabeça. Acredito na educação como parte inerente da formação integral do ser, para o desenvolvimento de suas potencialidades e na formação do caráter.
 
-## - 🔭 Atualmente estou desenvolvendo robôs para mercado financeiro
+## - 🔭 Passei um tempo desenvolvendo robôs para mercado financeiro
 
-  Apesar de haver tido acesso à tecnologia muito cedo, nunca havia me aventurado no maravilhoso mundo do desenvolvimento. Confesso que fiquei só na curiosidade mesmo. Dediquei muitos anos ao design gráfico e ao domínio de ferramentas relacionadas (CorelDraw, Photoshop,etc). Há poucos anos descobri o gosto pela programação através do mercado financeiro. Por necessidade aprendi a codar em NTSL, uma linguagem derivada do Delphi para desenvolver e automatizar estratégias de investimento baseadas no preço. Aparti daí tive sorte de me aventurar no mundo dos loops, arrays e algoritmos. Hoje divido o meu tempo entre as dezenas de robôs que venho desenvolvendo e o imenso mundo do frontEnd.
+  Mesmo tendo acesso à tecnologia muito cedo, nunca havia me aventurado mundo do desenvolvimento. Confesso que fiquei só na curiosidade mesmo. Dediquei muitos anos ao design gráfico e ao domínio de ferramentas relacionadas (CorelDraw, Photoshop,etc). Há poucos anos descobri o gosto pela programação através do mercado financeiro. Por necessidade aprendi a codar em NTSL, uma linguagem derivada do Delphi para desenvolver e automatizar estratégias de investimento baseadas no price action. Desde então, tenho me dedicado integralmente ao desenvolvimento e às estruturas de rede.
 
 ## - 👯 Estou disposto a colaborar com algum projeto seu
 
-  Se voce tem algum projeto e precisa da minha ajuda, me envie uma mensagem. Talvez eu possa contribuir.
+  Se voce tem algum projeto Open Source e precisa da minha ajuda, me envie uma mensagem. Talvez eu possa contribuir.
 
-## - 🤔 Aceito de muitíssimo bom grado ofertas de trabalho
+## - 🤔 Aceito de bom grado ofertas de trabalho
 
   Estou em busca de desenvolver minhas experiências práticas, skills e network; e a melhor maneira de adquirir estas valiosas habilidades é no mercado de trabalho. Quero muito estar envolvido em processos empolgantes que possam servir como caminho para o aperfeiçoamento pessoal e profissional.
 
