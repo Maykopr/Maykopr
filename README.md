@@ -33,11 +33,11 @@
 
 ## - 😄 Amo estudar
 
-  Sou apaixonado pelo processo de aprendizado e, por consequência, auto-didata. Me interesso por várias áreas do saber e acredito que são todas peças de um mesmo quebra-cabeça. Acredito na educação como parte inerente da formação integral do ser, para o desenvolvimento de suas potencialidades e na formação do caráter.
+  Sou apaixonado pelo processo de aprendizado e, por consequência, autodidata. Me interesso por várias áreas do saber e acredito que são todas peças de um mesmo quebra-cabeça. Acredito na educação como parte inerente da formação integral do ser, para o desenvolvimento de suas potencialidades e na formação do caráter.
 
 ## - 🔭 Passei um tempo desenvolvendo robôs para mercado financeiro
 
-  Mesmo tendo acesso à tecnologia muito cedo, nunca havia me aventurado mundo do desenvolvimento. Confesso que fiquei só na curiosidade mesmo. Dediquei muitos anos ao design gráfico e ao domínio de ferramentas relacionadas (CorelDraw, Photoshop,etc). Há poucos anos descobri o gosto pela programação através do mercado financeiro. Por necessidade aprendi a codar em NTSL, uma linguagem derivada do Delphi para desenvolver e automatizar estratégias de investimento baseadas no price action. Desde então, tenho me dedicado integralmente ao desenvolvimento e às estruturas de rede.
+  Mesmo tendo acesso à tecnologia muito cedo, nunca havia me aventurado mundo do desenvolvimento. Confesso que fiquei só na curiosidade mesmo. Dediquei muitos anos ao design gráfico e ao domínio de ferramentas relacionadas (CorelDraw, Photoshop,etc). Há poucos anos descobri o gosto pela programação através do mercado financeiro. Por necessidade aprendi a codar em NTSL, uma linguagem derivada do Delphi para desenvolver e automatizar estratégias de investimento. Desde então, tenho me dedicado integralmente ao desenvolvimento e às estruturas de rede.
 
 ## - 👯 Estou disposto a colaborar com algum projeto seu
 
@@ -45,7 +45,7 @@
 
 ## - 🤔 Aceito de bom grado ofertas de trabalho
 
-  Estou em busca de desenvolver minhas experiências práticas, skills e network; e a melhor maneira de adquirir estas valiosas habilidades é no mercado de trabalho. Quero muito estar envolvido em processos empolgantes que possam servir como caminho para o aperfeiçoamento pessoal e profissional.
+  Busco sinceramente receber e abraçar propostas que possibilitem expandir meu conhecimento e crescimento pessoal. Estou ansioso para explorar novas habilidades e aprofundar minhas experiências neste campo dinâmico. Estou pronto para dedicar-me com entusiasmo e determinação, contribuindo de forma significativa enquanto expando meu horizonte profissional.
 
 ## - 📫 Estou ansioso pelo seu contato
 
