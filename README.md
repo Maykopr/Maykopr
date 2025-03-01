@@ -1,16 +1,6 @@
 
 # Olá! Eu sou o Mayko Costa 👋
 
-## - 😲 Primeiros projetos no github
-
-- [https://github.com/Maykopr/portfolio](https://maykopr.github.io/portfolio/)
-- https://github.com/Maykopr/calculadora-React
-- https://github.com/Maykopr/Calculadora-IMC-React
-- https://github.com/Maykopr/projeto-listadetarefas
-- https://github.com/Maykopr/projeto-calculadora
-- https://github.com/Maykopr/site-viagem
-- Loading...
-
 ![Mayko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maykopr&show_icons=true&theme=vision-friendly-dark)
 ## - 👨‍💻 Tecnologias que eu utilizo
 
