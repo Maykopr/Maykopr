@@ -41,8 +41,8 @@ Sou um desenvolvedor frontend com experiência em JavaScript, React e ferramenta
 Minha trajetória começou no design gráfico, mas logo migrei para o desenvolvimento de software. Hoje, trabalho com HTML, CSS (SASS), Bootstrap e frameworks modernos para criar interfaces escaláveis e responsivas. No backend, tenho experiência com Node.js, PostgreSQL e MongoDB. Também tenho alguma fluência em ferramentas essenciais para o desenvolvimento de software, como Git, Webpack, Jest e Bash-Linux.
 
 ## 👷🏼‍♂️ Como posso contribuir?
-🔹 Projetos Open Source – Se você tem um projeto interessante e precisa de ajuda, entre em contato.
-🔹 Colaboração profissional – Estou aberto a oportunidades de trabalho onde possa agregar valor e continuar evoluindo como desenvolvedor.
+- Projetos Open Source – Se você tem um projeto interessante e precisa de ajuda, entre em contato.
+- Colaboração profissional – Estou aberto a oportunidades de trabalho onde possa agregar valor e continuar evoluindo como desenvolvedor.
 
 
 ## 📫 Estou ansioso pelo seu contato
