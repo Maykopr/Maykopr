@@ -1,10 +1,13 @@
 
 # Olá! Eu sou o Mayko Costa 👋
 
-## ✨ Portifólio puro, sem frameworks!
+## ✨ Portifólio vanilla, sem frameworks.
 https://maykopr.github.io/portifolio-vanilla/
 
+
 ![Mayko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maykopr&show_icons=true&theme=vision-friendly-dark)
+
+
 ## 🕶️ Tecnologias que eu utilizo
 
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -23,6 +26,7 @@ https://maykopr.github.io/portifolio-vanilla/
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+
 ## 🌱 Tecnologias que visito
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,15 +37,18 @@ https://maykopr.github.io/portifolio-vanilla/
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+
 ## 🔎 Tecnologias que quero aprender
 
 ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+
 ## 👨‍💻 Sobre mim
 Sou um desenvolvedor frontend com experiência em JavaScript, React e ferramentas modernas de build. Tenho um forte interesse em arquitetura de software, boas práticas e performance web.
 
 Minha trajetória começou no design gráfico, mas logo migrei para o desenvolvimento de software. Hoje, trabalho com HTML, CSS (SASS), Bootstrap e frameworks modernos para criar interfaces escaláveis e responsivas. No backend, tenho experiência com Node.js, PostgreSQL e MongoDB. Também tenho alguma fluência em ferramentas essenciais para o desenvolvimento de software, como Git, Webpack, Jest e Bash-Linux.
+
 
 ## 👷🏼‍♂️ Como posso contribuir?
 - Projetos Open Source – Se você tem um projeto interessante e precisa de ajuda, entre em contato.
