@@ -17,15 +17,18 @@
 ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
+![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ## 🌱 Tecnologias que visito
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![rabbitmq](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
@@ -34,13 +37,6 @@
 Engenheiro de Software em formação, Analista de Automações e Desenvolvedor focado em automação de infraestrutura, engenharia de software e observabilidade em larga escala. Minha paixão é arquitetar soluções que conectam desenvolvimento e operações de forma eficiente, aplicando boas práticas, documentação rigorosa e design modular.
 
 Ao longo da minha trajetória, transitei da construção de interfaces web para o coração da infraestrutura e automação. Hoje, atuo intensamente no ecossistema de redes e monitoramento, desenvolvendo integrações personalizadas, correlacionadores de eventos e pipelines de deploy automatizados. Sustento plataformas de grande fluxo e high Tier.
-
-### 🛠️ Stack Técnico & Ferramentas
-* **Linguagens & Automação:** Python, Bash, Node.js, PowerShell
-* **Observabilidade & Monitoramento:** Zabbix (LVD/JSONPath), Grafana, LibreNMS
-* **Infraestrutura & Containers:** Docker, Docker Compose, Linux/Unix
-* **Mensageria & Cache:** RabbitMQ, Redis
-* **Bancos de Dados & Ferramentas:** PostgreSQL, MongoDB, Git
 
 ---
 
