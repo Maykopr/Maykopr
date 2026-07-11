@@ -31,7 +31,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Engenheiro de Software em formação, Analista de Sistemas e Desenvolvedor focado em automação de infraestrutura, engenharia de software e observabilidade em larga escala. Minha paixão é arquitetar soluções que conectam desenvolvimento e operações de forma eficiente, aplicando boas práticas, documentação rigorosa e design modular.
+Engenheiro de Software em formação, Analista de Automações e Desenvolvedor focado em automação de infraestrutura, engenharia de software e observabilidade em larga escala. Minha paixão é arquitetar soluções que conectam desenvolvimento e operações de forma eficiente, aplicando boas práticas, documentação rigorosa e design modular.
 
 Ao longo da minha trajetória, transitei da construção de interfaces web para o coração da infraestrutura e automação. Hoje, atuo intensamente no ecossistema de redes e monitoramento, desenvolvendo integrações personalizadas, correlacionadores de eventos e pipelines de deploy automatizados. Sustento plataformas de grande fluxo e high Tier.
 
